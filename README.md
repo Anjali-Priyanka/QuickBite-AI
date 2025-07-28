@@ -4,7 +4,7 @@ QuickBite AI is an intelligent food recommendation app that uses AI to suggest m
 
 **QuickBite AI** is an AI-powered food recommendation system that helps users discover delicious meals based on their taste, dietary preferences, or mood. Whether you're craving something spicy, need a vegan dish, or want a healthy snack—QuickBite AI has you covered.
 
-![QuickBite AI Preview](./assets/quickbite-preview.png)
+
 
 ## 🚀 Live Demo
 
